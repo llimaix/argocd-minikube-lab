@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+.vscode/
+
+*.log
+*.tmp
+
+.env
+.env.*
+
+kubeconfig
+*.kubeconfig
+
+secrets/
+*.secret.yaml
